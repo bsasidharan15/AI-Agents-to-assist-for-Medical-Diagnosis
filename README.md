@@ -36,6 +36,7 @@ bash
 Copy
 Edit
 streamlit run app.py
+
 📄 How to Use
 Upload a .txt file containing the medical report.
 
@@ -66,6 +67,7 @@ AI-Agents-to-assist-for-Medical-Diagnosis/
 ├── results/
 │   └── final_diagnosis.txt # Output file (auto-generated)
 └── README.md               # Project documentation
+
 🧠 Tech Stack
 Streamlit
 
